@@ -3,7 +3,7 @@ This study systematically reviews political, social, psychological, economic, an
 
 **Introduction**
 
-*Research Question**
+**Research Question**
 
 
 **Data Collection**
@@ -30,3 +30,6 @@ This study systematically reviews political, social, psychological, economic, an
 •Fifth, the usage of "polarization" must explicitly reflect its social science context, excluding unrelated homonyms such as light polarization or cellular polarization (excl:off-topic). Finally, the research must fall within media, politics, economics, or social welfare domains, or be published in designated interdisciplinary journals (excl:off-field).
 
 • and Relevant literature was collected by searching for the keyword 'polarization' in journals across _political science_, _sociology_, _economics_, _psychology_, and _media studies_, as well as major multidisciplinary journals including _Science_, _Science Advances_, _PNAS_, _PLOS ONE_, _Nature_, _Nature Human Behaviour_, _Nature Communications_, _Scientific Reports_ and _Humanities and Social Sciences Communications_.
+
+
+***Reference***
