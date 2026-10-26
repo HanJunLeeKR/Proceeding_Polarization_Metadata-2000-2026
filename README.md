@@ -10,7 +10,9 @@ This study systematically reviews political, social, psychological, economic, an
 
 • Field filter required: "polarization" is used overwhelmingly in physics (polarization of light), chemistry, life sciences (cell and macrocell polarization), and electrical engineering, so it must be limited to a specific field. Since multidisciplinary journals cannot be strictly divided by field, they are filtered once more using a social science context (Block B).
 
+
 **Selection Criteria (Screening Sequence)** (need revision)
+
 • To ensure systematic literature selection, publications are screened sequentially through a six-step process. 
 
 •First, the study must be an empirical research article or a literature review published in an academic journal (excl:not-journal); inclusion of review articles is determined by research question Q2. 
