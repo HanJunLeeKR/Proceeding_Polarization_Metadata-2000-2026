@@ -1,6 +1,8 @@
 # Proceeding_Polarization_Metadata-2000-2026
 This study systematically reviews political, social, psychological, economic, and media literature on polarization using global and Korean database metadata. Applying machine learning "Literature Hypergraph", it compares domestic and international trends, and proposes future research agendas for Polarization in Communication at the 2026 &lt;_Korea Speech and Communication Association_> Fall Conference.
 
+Introduction
+
 
 **Data Collection**
 
