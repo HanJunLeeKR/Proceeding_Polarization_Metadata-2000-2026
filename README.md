@@ -2,7 +2,8 @@
 This study systematically reviews political, social, psychological, economic, and media literature on polarization using global and Korean database metadata. Applying machine learning, it compares domestic and international trends, and proposes future research agendas for the 2026 &lt;Korea Speech and Communication Association> Fall Conference.
 
 
-Data Collection
+**Data Collection**
+
 • English search terms: polarization, polarisation, polarized, polarised, polarizing, polarising, polarize(s), polarise(s), depolarization. (Added after discovering the omission of the verb form 'polarize/polarizes' in the 2026-10-11 pilot) Use the wildcard (?) with both the US and UK spellings. If you cut it as wide as polari*, it also captures polarity (the emotional polarity in text analysis), which increases noise, so it is not used.
 
 • Korean search term: 양극화. In the Korean database, we include the English search term to find papers containing the English abstract or keyword 'polarization'.
