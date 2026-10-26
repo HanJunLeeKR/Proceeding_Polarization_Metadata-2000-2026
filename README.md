@@ -24,3 +24,5 @@ This study systematically reviews political, social, psychological, economic, an
 •Fourth, at least one of these three sections—title, abstract, or keywords—must explicitly contain the term "polarization" or its relevant Korean equivalents (excl:no-term). 
 
 •Fifth, the usage of "polarization" must explicitly reflect its social science context, excluding unrelated homonyms such as light polarization or cellular polarization (excl:off-topic). Finally, the research must fall within media, politics, economics, or social welfare domains, or be published in designated interdisciplinary journals (excl:off-field).
+
+• and Relevant literature was collected by searching for the keyword 'polarization' in journals across political science, sociology, economics, psychology, and media studies, as well as major multidisciplinary journals including Science, Science Advances, PNAS, PLOS ONE, Nature, Nature Human Behaviour, Nature Communications, Scientific Reports, and Humanities and Social Sciences Communications.
